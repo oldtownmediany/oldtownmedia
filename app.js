@@ -5,13 +5,11 @@
 
 var express = require('express')
 , routes = require('./routes')
-, mongoose = require('mongoose')
 , bodyParser = require('body-parser')
 , methodOverride = require('method-override')
 , serveStatic = require('serve-static')
-, errorHandler = require('errorhandler');
-
-mongoose.connect(process.env.MONGOLAB_URI || "mongodb://localhost/mongo_test");
+, errorHandler = require('errorhandler')
+, path = require('path');
 
 var app = express(); //module.exports = express.createServer();
 
@@ -25,7 +23,12 @@ app.use(serveStatic(__dirname + '/public'));
 
 // Routes
 
-app.get('/', routes.index);
+// app.get('/', routes.index);
+
+app.get('/',function(req,res){
+  res.sendFile(path.join(__dirname+'/views/index.html'));
+  //__dirname : It will resolve to your project folder.
+});
 
 // load errorHandler after routes
 
@@ -38,5 +41,5 @@ if (process.env.NODE_ENV !== "production") {
 
 var port = process.env.PORT || 3000;
 app.listen(port, function(){
-  console.log("Express server listening on port %d in %s mode", process.env.PORT, app.settings.env);
+  console.log("Express server listening on port %d in %s mode", port, app.settings.env);
 });

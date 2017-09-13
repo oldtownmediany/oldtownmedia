@@ -1,0 +1,28 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3435939, 2017-08-11T13:28:17-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: AmsiProNarw-Ultra by Stawix
+ * URL: https://www.myfonts.com/fonts/stawix/amsi-pro/narrow-ultra/
+ * Copyright: &#x00A9; 2012, 2013, 2014, 2015, 2016 by Stawix Ruecha &amp; Foundry. All rights reserved.
+ * Licensed pageviews: 20,000
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3435939
+ * 
+ * © 2017 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/346da3");
+
+  
+@font-face {font-family: 'amsi-nar-ultra';src: url('fonts/346DA3_0_0.eot');src: url('fonts/346DA3_0_0.eot?#iefix') format('embedded-opentype'),url('fonts/346DA3_0_0.woff2') format('woff2'),url('fonts/346DA3_0_0.woff') format('woff'),url('fonts/346DA3_0_0.ttf') format('truetype');}
+ 

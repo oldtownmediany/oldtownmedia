@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "amsiblack";
+    src: url("fonts/AmsiProBlack.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: "amsi-nar-ultra";
+    src: url("fonts/AmsiProNarwUltra.ttf") format('truetype');
+}
+
+@font-face {
+	font-family:"stanley";
+	src: url("fonts/StanleyRegular.otf") format('opentype');
+}
