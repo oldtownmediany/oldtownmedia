@@ -11,6 +11,10 @@ body {
   color:#ffff00;
 }
 
+a {
+color:#033b26; 
+}
+
 .menu-item-has-children ul {
 display: none;
 }
