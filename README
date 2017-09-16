@@ -1,1 +1,7 @@
 boilerplate: https://github.com/jazzychad/heroku-node-express
+
+## Deploy
+Edit the files you want changed
+`git add .` to add all cahnges
+`git commit -m 'commit message'` to add to git history
+`git push` to deploy
