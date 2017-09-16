@@ -43,7 +43,7 @@ a:hover{
     font-size: 12vw;
     padding:0;
     font-family: 'amsi-nar-ultra', Helvetica, Arial, sans-serif;
-    line-height:.79em;
+    line-height: 0.78em;
     }
 
     .menu-item-has-children h1, .masthead {
@@ -82,7 +82,7 @@ a:hover{
     font-size: 12vw;
     padding:0;
     font-family: 'amsi-nar-ultra', Helvetica, Arial, sans-serif;
-    line-height:.75em;
+    line-height:0.78em;
     }
 
     h2 {
@@ -112,7 +112,7 @@ a:hover{
     font-size: 12vw;
     padding:0;
     font-family: 'amsi-nar-ultra', Helvetica, Arial, sans-serif;
-    line-height:.75em;
+    line-height: 0.78em;
     /*  color:#ffff00;*/
     }
 
@@ -140,7 +140,7 @@ a:hover{
     font-size: 12vw;
     padding:0;
     font-family: 'amsi-nar-ultra', Helvetica, Arial, sans-serif;
-    line-height:.75em;
+    line-height: 0.78em;
     }
 
     h2 {
@@ -169,7 +169,7 @@ a:hover{
     font-size: 10vw;
     padding:0;
     font-family: 'amsi-nar-ultra', Helvetica, Arial, sans-serif;
-    line-height:.75em;
+    line-height: 0.78em;
     /*  color:#ffff00;*/
     }
 
@@ -203,7 +203,7 @@ a:hover{
     font-size: 10vw;
     padding:0;
     font-family: 'amsi-nar-ultra', Helvetica, Arial, sans-serif;
-    line-height:.75em;
+    line-height: 0.78em;
     /*  color:#ffff00;*/
     }
 
