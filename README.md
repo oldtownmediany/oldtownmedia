@@ -2,7 +2,7 @@
 
 ## Editing
 
-Edit the index.html file [https://github.com/packtechinc/oldtownmedia/blob/master/views/index.html](here) for any langugae updates you want
+Edit the index.html file [here](https://github.com/packtechinc/oldtownmedia/blob/master/views/index.html) for any langugae updates you want
 
 ## Deploying
 
