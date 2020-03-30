@@ -8,7 +8,7 @@
   "dependencies": {
     "express": "4.10.7",
     "jade": "1.8.2",
-    "ejs": "0.7.1",
+    "ejs": "3.0.2",
     "mongoose": "~4.4",
     "shortid": "1.0.6",
     "MD5": "latest",
